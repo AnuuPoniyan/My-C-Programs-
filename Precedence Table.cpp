@@ -1,3 +1,5 @@
+// Gives a overview about the precedence of operators in C.
+
 #include <stdio.h>
 #include <stdint.h>  // For uintptr_t
 
@@ -110,3 +112,4 @@ int main() {
 
     return 0;
 }
+
