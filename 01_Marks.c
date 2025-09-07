@@ -1,3 +1,4 @@
+// Gives Average of Marks.
 #include <stdio.h>
 
 int main(){
@@ -27,4 +28,5 @@ int main(){
     printf("Average Marks = %.2f\n", average);
     
     return 0;
+
 }
