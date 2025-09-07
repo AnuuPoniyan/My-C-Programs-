@@ -1,3 +1,4 @@
+// Enter Your Name and Age 
 #include <stdio.h>
 
 int main(){
@@ -12,4 +13,5 @@ int main(){
 
     printf("Hi, I am %s and my age is %d", a, b);
     return 0;
+
 }
