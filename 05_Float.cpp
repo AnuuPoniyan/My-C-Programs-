@@ -1,3 +1,5 @@
+// Print Float Number to 2 decimals only.
+
 #include<stdio.h>
 int main(){
 	float a;
@@ -7,4 +9,5 @@ int main(){
 	printf("Number rounded to 2 decimal places is:%.2f\n", a);
 	return 0;
 	
+
 }
